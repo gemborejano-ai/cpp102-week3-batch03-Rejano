@@ -1,0 +1,6 @@
+START
+INPUT weight1
+INPUT weight2
+PROCESS sum = weight1 + weight2
+DISPLAY overall weight
+END

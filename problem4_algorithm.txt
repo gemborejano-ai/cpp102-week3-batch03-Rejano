@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the first number. Store it as data1.
+Step 3: Ask the user to enter the second number. Store it as data2.
+Step 4: Compute sum = data1 + data2.
+Step 5: Display data.
+Step 6: End.

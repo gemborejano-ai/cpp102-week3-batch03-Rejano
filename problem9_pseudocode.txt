@@ -1,0 +1,8 @@
+START
+INPUT number
+IF number MOD 0 = 100 THEN
+DISPLAY "High"
+ELSE
+DISPLAY "Low"
+END IF
+END

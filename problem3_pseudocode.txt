@@ -1,0 +1,6 @@
+START
+INPUT volume1
+INPUT volume2
+PROCESS sum = volume1 + volume2
+DISPLAY volume
+END

@@ -1,0 +1,6 @@
+START
+INPUT num1
+INPUT num2
+PROCESS multiply = num1 * num2
+DISPLAY multiply
+END

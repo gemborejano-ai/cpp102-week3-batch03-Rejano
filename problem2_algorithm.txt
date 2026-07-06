@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the grade. Store it as grade.
+Step 3: Check if grade is 60 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.

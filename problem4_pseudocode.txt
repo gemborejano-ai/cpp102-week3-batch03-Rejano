@@ -1,0 +1,6 @@
+START
+INPUT data1
+INPUT data2
+PROCESS sum = data1 + data2
+DISPLAY data
+END

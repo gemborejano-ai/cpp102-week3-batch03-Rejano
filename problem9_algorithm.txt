@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for number.
+Step 3: Check if number MOD 2 equals 0.
+Step 4: If yes, display "High".
+Step 5: If no, display "Low".
+Step 6: End.

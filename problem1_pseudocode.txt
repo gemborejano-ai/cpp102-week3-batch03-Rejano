@@ -1,0 +1,7 @@
+# ACTIVITY 1
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END

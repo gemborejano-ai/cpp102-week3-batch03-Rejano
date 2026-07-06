@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the volume. Store it as volume.
+Step 3: Check if volume is 10 or above.
+Step 4: If yes, display "Passed".
+Step 5: If no, display "Failed".
+Step 6: End.
